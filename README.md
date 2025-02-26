@@ -13,9 +13,6 @@ I'm an engineering student with a passion for video games, sports and creativity
 
 * <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
 
-* <img src="icon_portfolio.png" width="20"> **Portfolio personnel** - Mon site web présentant mes projets et compétences. [[Site]](lien) [[Code source]](lien)
-
-* [Ajoutez ici vos futurs projets]
 
 ## Technical skills
 
@@ -27,4 +24,4 @@ I'm an engineering student with a passion for video games, sports and creativity
 
 📚 **Currently in learning** : Github and Java
 
-> Feel free to explore my projects and contact me for any collaboration or questions!
+> Feel free to explore my projects and contact me for any collaboration or questions !
