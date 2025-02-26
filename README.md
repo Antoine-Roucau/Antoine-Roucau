@@ -22,8 +22,9 @@ Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techni
 💻 **Langages** : Python, C#  
 
 🔧 **Outils & Frameworks** :  
-    * **Maîtrisés** : Unity, Fusion 360, VS Code
-    * **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
+    • **Maîtrisés** : Unity, Fusion 360, VS Code
+    
+    • **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
 
 📚 **Actuellement en apprentissage** : Github and Java
 
