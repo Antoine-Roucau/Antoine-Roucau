@@ -2,7 +2,7 @@
 
 [Website](https://antoine-roucau.github.io/) · 
 [LinkedIn](https://www.linkedin.com/in/antoine-roucau-682b1b157/) · 
-[GitHub](https://github.com/Antoine-Roucau) .
+[GitHub](https://github.com/Antoine-Roucau) ·
 [Mail](mailto:abg.antoine.roucau@gmail.com)
 
 **Hello Hello everyone ! 👋**
