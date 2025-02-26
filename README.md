@@ -19,8 +19,12 @@ Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techni
 
 ## Compétences techniques
 
-💻 **Langages** : [Liste de vos langages de programmation]  
-🔧 **Outils & Frameworks** : [Liste des outils et frameworks que vous maîtrisez]  
-📚 **Actuellement en apprentissage** : [Ce que vous êtes en train d'apprendre]
+💻 **Langages** : Python, C#  
+
+🔧 **Outils & Frameworks** :  
+   • **Maîtrisés** : Unity, Fusion 360, VS Code
+   • **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
+
+📚 **Actuellement en apprentissage** : Github and Java
 
 > N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question !
