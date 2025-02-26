@@ -1,4 +1,4 @@
-<img src="banniere.png">
+<img src="img\banniere.png">
 
 [Website](https://antoine-roucau.github.io/) · 
 [LinkedIn](https://www.linkedin.com/in/antoine-roucau-682b1b157/) · 
