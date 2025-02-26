@@ -5,7 +5,7 @@
 [GitHub](https://github.com/Antoine-Roucau) ·
 [Mail](mailto:abg.antoine.roucau@gmail.com)
 
-**Hello Hello everyone ! 👋**
+## **Hello Hello everyone ! 👋**
 
 I'm an engineering student with a passion for video games, sports and creativity. I develop solutions to solve concrete problems for myself or my loved ones, but mostly for my own curiosity. I'm multi-creative: today I'm making a ring, tomorrow an armor and later a sword. I mean litteraly. My dream would be to have a workshop where I could design everything I imagine.
 
