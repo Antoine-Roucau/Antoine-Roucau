@@ -11,7 +11,7 @@ Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techni
 
 ## Mes projets 
 
-* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Programme utilisant API Chat GPT pour faire une correction orthographique [[Site]](lien) [[Code source]](lien)
+* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Programme permettant de corriger les fautes d'orthographe dans le presse-papiers par l'utilisation de hotkeys. [[Code source]](https://github.com/Antoine-Roucau/OrthoNome)
 
 * <img src="icon_portfolio.png" width="20"> **Portfolio personnel** - Mon site web présentant mes projets et compétences. [[Site]](lien) [[Code source]](lien)
 
