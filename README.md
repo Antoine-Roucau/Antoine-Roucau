@@ -22,6 +22,6 @@ I'm an engineering student with a passion for video games, sports and creativity
     • **Mastered** : Unity, Fusion 360, VS Code, Work with AI (Claude, Perplexity, Midjourney)<br>
     • **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
 
-📚 **Currently in learning** : Github and Java
+📚 **Currently learning** : Github and Java
 
 > Feel free to explore my projects and contact me for any collaboration or questions !
