@@ -22,7 +22,7 @@ Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techni
 💻 **Langages** : Python, C#  
 
 🔧 **Outils & Frameworks** :  
-    • **Maîtrisés** : Unity, Fusion 360, VS Code, Work with LLM (Claude, Perplexity, Midjourney)<br>
+    • **Maîtrisés** : Unity, Fusion 360, VS Code, Work with AI (Claude, Perplexity, Midjourney)<br>
     • **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
 
 📚 **Actuellement en apprentissage** : Github and Java
