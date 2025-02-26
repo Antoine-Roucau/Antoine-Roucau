@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="votre_bannière.png">
 
-<!--
-**Antoine-Roucau/Antoine-Roucau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Site Portfolio](lien) · 
+[LinkedIn](lien) · 
+[GitHub](votre_profil) · 
+[Email](mailto:votre_email)
 
-Here are some ideas to get you started:
+**Bonjour et bienvenue sur mon profil ! 👋**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techniques]. Je développe des solutions pour résoudre des problèmes concrets et j'aime explorer différentes technologies. [Ajoutez une touche personnelle comme votre ami l'a fait avec ses hobbies].
+
+## Mes projets 
+
+* <img src="icon_orthobot.png" width="20"> **Orthobot** - Assistant orthographique personnel conçu pour faciliter la correction de textes. [[Site]](lien) [[Code source]](lien)
+
+* <img src="icon_portfolio.png" width="20"> **Portfolio personnel** - Mon site web présentant mes projets et compétences. [[Site]](lien) [[Code source]](lien)
+
+* [Ajoutez ici vos futurs projets]
+
+## Compétences techniques
+
+💻 **Langages** : [Liste de vos langages de programmation]  
+🔧 **Outils & Frameworks** : [Liste des outils et frameworks que vous maîtrisez]  
+📚 **Actuellement en apprentissage** : [Ce que vous êtes en train d'apprendre]
+
+> N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question !
