@@ -2,7 +2,7 @@
 
 [Website](https://antoine-roucau.github.io/) · 
 [LinkedIn](https://www.linkedin.com/in/antoine-roucau-682b1b157/) · 
-[GitHub](https://github.com/Antoine-Roucau)
+[GitHub](https://github.com/Antoine-Roucau) .
 [Mail](mailto:abg.antoine.roucau@gmail.com)
 
 **Bonjour et bienvenue sur mon profil ! 👋**
@@ -11,7 +11,7 @@ Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techni
 
 ## Mes projets 
 
-* <img src="img\orthonome.ico" width="20"> **Orthobot** - Assistant orthographique personnel conçu pour faciliter la correction de textes. [[Site]](lien) [[Code source]](lien)
+* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Programme utilisant API Chat GPT pour faire une correction orthographique [[Site]](lien) [[Code source]](lien)
 
 * <img src="icon_portfolio.png" width="20"> **Portfolio personnel** - Mon site web présentant mes projets et compétences. [[Site]](lien) [[Code source]](lien)
 
