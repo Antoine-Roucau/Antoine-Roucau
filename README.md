@@ -11,7 +11,7 @@ I'm an engineering student with a passion for video games, sports and creativity
 
 ## My projects 
 
-* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
 
 
 ## Technical skills
