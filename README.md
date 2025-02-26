@@ -5,26 +5,26 @@
 [GitHub](https://github.com/Antoine-Roucau) .
 [Mail](mailto:abg.antoine.roucau@gmail.com)
 
-**Bonjour et bienvenue sur mon profil ! 👋**
+**Hello Hello everyone ! 👋**
 
-Je suis étudiant en ingénierie, passionné par [vos centres d'intérêt techniques]. Je développe des solutions pour résoudre des problèmes concrets et j'aime explorer différentes technologies. [Ajoutez une touche personnelle comme votre ami l'a fait avec ses hobbies].
+I'm an engineering student with a passion for video games, sports and creativity. I develop solutions to solve concrete problems for myself or my loved ones, but mostly for my own curiosity. I'm multi-creative: today I'm making a ring, tomorrow an armor and later a sword. My dream would be to have a workshop where I could design everything I imagine.
 
-## Mes projets 
+## My projects 
 
-* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Programme permettant de corriger les fautes d'orthographe dans le presse-papiers par l'utilisation de hotkeys. [[Code source]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
 
 * <img src="icon_portfolio.png" width="20"> **Portfolio personnel** - Mon site web présentant mes projets et compétences. [[Site]](lien) [[Code source]](lien)
 
 * [Ajoutez ici vos futurs projets]
 
-## Compétences techniques
+## Technical skills
 
-💻 **Langages** : Python, C#  
+💻 **Languages** : Python, C#  
 
-🔧 **Outils & Frameworks** :  
-    • **Maîtrisés** : Unity, Fusion 360, VS Code, Work with AI (Claude, Perplexity, Midjourney)<br>
+🔧 **Tools & Frameworks** :  
+    • **Mastered** : Unity, Fusion 360, VS Code, Work with AI (Claude, Perplexity, Midjourney)<br>
     • **Notions** : Unity DOTS, Blender, Krita, HTML/CSS, MySQL
 
-📚 **Actuellement en apprentissage** : Github and Java
+📚 **Currently in learning** : Github and Java
 
-> N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question !
+> Feel free to explore my projects and contact me for any collaboration or questions!
