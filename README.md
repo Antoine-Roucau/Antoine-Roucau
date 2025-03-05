@@ -11,6 +11,7 @@ I'm an engineering student with a passion for video games, sports and creativity
 
 ## My projects 
 
+* <img src="img\website.ico" width="20"> **Portfolio** - Website presenting me | HTML, CSS and JavaScript [[Source code]](https://github.com/Antoine-Roucau/Antoine-Roucau.github.io)
 * <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes (Fr/En) in the clipboard using hotkeys. | Python [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
 * <img src="img\bitmap.ico" width="20"> **Bitmap** - Library for BMP image processing and manipulation with Huffman. | C# [[Source code]](https://github.com/Antoine-Roucau/Bitmap_Image)
 * <img src="img\flux.ico" width="20"> **Flux** - Cybersecurity vulnerability monitoring and analysis tool that tracks ANSSI security bulletins. | Python [[Source code]](https://github.com/Antoine-Roucau/Flux_Analysis)
