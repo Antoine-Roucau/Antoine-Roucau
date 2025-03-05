@@ -12,6 +12,10 @@ I'm an engineering student with a passion for video games, sports and creativity
 ## My projects 
 
 * <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\bitmap.ico" width="20"> **Bitmap** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\flux.ico" width="20"> **Flux** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\gomoku.ico" width="20"> **Gomoku** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
+* <img src="img\velomax.ico" width="20"> **VeloMax** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
 
 
 ## Technical skills
