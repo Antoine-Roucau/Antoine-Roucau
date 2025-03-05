@@ -12,8 +12,8 @@ I'm an engineering student with a passion for video games, sports and creativity
 ## My projects 
 
 * <img src="img\orthonome.ico" width="20"> **OrthoNome** - Program to correct spelling mistakes (French and English) in the clipboard using hotkeys. [[Source code]](https://github.com/Antoine-Roucau/OrthoNome)
-* <img src="img\bitmap.ico" width="20"> **Bitmap** - A C# library for BMP image processing and manipulation with Huffman compression algorithm integration. [[Source code]](https://github.com/Antoine-Roucau/Bitmap_Image)
-* <img src="img\flux.ico" width="20"> **Flux** - A comprehensive cybersecurity vulnerability monitoring and analysis tool that tracks ANSSI security bulletins. [[Source code]](https://github.com/Antoine-Roucau/Flux_Analysis)
+* <img src="img\bitmap.ico" width="20"> **Bitmap** - A C# library for BMP image processing and manipulation with Huffman. [[Source code]](https://github.com/Antoine-Roucau/Bitmap_Image)
+* <img src="img\flux.ico" width="20"> **Flux** - A cybersecurity vulnerability monitoring and analysis tool that tracks ANSSI security bulletins. [[Source code]](https://github.com/Antoine-Roucau/Flux_Analysis)
 * <img src="img\gomoku.ico" width="20"> **Gomoku** - A Python implementation of the Gomoku game (Five in a Row) with an AI opponent. [[Source code]](https://github.com/Antoine-Roucau/Gomoku_IA)
 * <img src="img\velomax.ico" width="20"> **VeloMax** - VeloMax is a comprehensive management system for bicycle shops, built with C# and MySQL. [[Source code]](https://github.com/Antoine-Roucau/VeloMax)
 
