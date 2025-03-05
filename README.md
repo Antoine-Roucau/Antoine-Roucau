@@ -17,7 +17,7 @@ I'm an engineering student with a passion for video games, sports and creativity
 * <img src="img\flux.ico" width="20"> **Flux** - Cybersecurity vulnerability monitoring and analysis tool that tracks ANSSI security bulletins. | Python [[Source code]](https://github.com/Antoine-Roucau/Flux_Analysis)
 * <img src="img\gomoku.ico" width="20"> **Gomoku** - Implementation of the Gomoku game (Five in a Row) with an AI opponent. | Python [[Source code]](https://github.com/Antoine-Roucau/Gomoku_IA)
 * <img src="img\velomax.ico" width="20"> **VeloMax** - VeloMax is a comprehensive management system for bicycle shops. | C# and MySQL. [[Source code]](https://github.com/Antoine-Roucau/VeloMax)
-* <img src="img\velomax.ico" width="20"> **Web_Scrapping** - Collection of Python web scraping utilities | Python [[Source code]](https://github.com/Antoine-Roucau/Web_Scrapping)
+* <img src="img\scrapping.ico" width="20"> **Web Scrapping** - Collection of Python web scraping utilities | Python [[Source code]](https://github.com/Antoine-Roucau/Web_Scrapping)
 
 ## Technical skills
 
